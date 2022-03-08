@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/php.ishop.loc",
+  "description": "PHP 8.0 MVC SMS",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Standalone G. Alex",
+      "email": "coder2k@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "gas\\": "vendor/gas",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
